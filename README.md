@@ -1,21 +1,21 @@
 <h1>Coucou tout le monde, bienvenue sur mon profil 👋</h1>
-<h3>Developpeuse Full Stack</h3>
+<h3>Développeuse Full Stack</h3>
 
-<p>🎨💻 Je conçois des experiences web utiles, modernes et visuellement soignees.<br/>
+<p>🎨💻 Je conçois des expériences web utiles, modernes et visuellement soignées.<br/>
 J'aime relier design, front-end et back-end pour transformer un besoin client en solution claire et performante.</p>
 
-<h2>👩‍💻 A propos de moi</h2>
+<h2>👩‍💻 À propos de moi</h2>
 <ul>
-  <li>Etudiante a Cloud Campus</li>
-  <li>2 ans d'experience professionelle en alternance</li>
-  <li>Profil full stack avec forte sensibilite UX/UI</li>
+  <li>Étudiante à Cloud Campus</li>
+  <li>2 ans d'expérience professionelle en alternance</li>
+  <li>Profil full stack avec une forte sensibilité UX/UI</li>
 </ul>
 
 <h2>🚀 Ce sur quoi je travaille</h2>
 <ul>
-  <li>Projets full stack (React, Java Spring Boot, Laravel)</li>
-  <li>Authentification securisee (JWT, Spring Security, BCrypt)</li>
-  <li>Evolution continue de mon portfolio</li>
+  <li>Projets full stack (React, Laravel, Java Spring Boot...)</li>
+  <li>Authentification securisée (JWT, Spring Security, BCrypt)</li>
+  <li>Évolution continue de mon portfolio</li>
 </ul>
 
 <h3 align="left">Langages et outils :</h3>
