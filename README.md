@@ -1,4 +1,4 @@
-<h1>Coucou tout le monde, bienvenue sur mon profil 👋</h1>
+<h1>Hello, bienvenue sur mon profil 👋</h1>
 <h3>Développeuse Full Stack</h3>
 
 <p>🎨💻 Je conçois des expériences web utiles, modernes et visuellement soignées.<br/>
