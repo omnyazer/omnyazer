@@ -14,7 +14,7 @@ J'aime relier design, front-end et back-end pour transformer un besoin client en
 <h2>🚀 Ce sur quoi je travaille</h2>
 <ul>
   <li>Projets full stack (React, Laravel, Java Spring Boot...)</li>
-  <li>Authentification securisée (JWT, Spring Security, BCrypt)</li>
+  <li>Développement de fonctionnalités web orientées besoins métiers et expérience utilisateur</li>
   <li>Évolution continue de mon Projet académique MèreVeille : Plateforme e-commerce pour jeunes parents</li>
 </ul>
 
