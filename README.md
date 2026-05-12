@@ -15,7 +15,7 @@ J'aime relier design, front-end et back-end pour transformer un besoin client en
 <ul>
   <li>Projets full stack (React, Laravel, Java Spring Boot...)</li>
   <li>Authentification securisée (JWT, Spring Security, BCrypt)</li>
-  <li>Évolution continue de mon portfolio</li>
+  <li>Évolution continue de mon Projet académique MèreVeille : Plateforme e-commerce pour jeunes parents</li>
 </ul>
 
 <h3 align="left">Langages et outils :</h3>
